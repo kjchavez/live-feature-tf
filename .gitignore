@@ -1,0 +1,4 @@
+# Generated
+*.pyc
+*.json
+*.egg-info/
